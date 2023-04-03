@@ -13,5 +13,6 @@ public class SocketServerRunner {
             System.out.println("Client request: " + inputStream.readUTF());
             outputStream.writeUTF("Hello from server!");
         }
+        System.out.println("Test");
     }
 }
