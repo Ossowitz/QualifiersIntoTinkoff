@@ -14,5 +14,6 @@ public class SocketServerRunner {
             outputStream.writeUTF("Hello from server!");
         }
         System.out.println("Test");
+        System.out.println("Test2");
     }
 }
