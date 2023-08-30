@@ -1,4 +1,4 @@
-package Lesson1;
+package leetcode.Lesson1;
 
 import java.util.HashMap;
 import java.util.Map;

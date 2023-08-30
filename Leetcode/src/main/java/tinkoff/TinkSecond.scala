@@ -1,4 +1,4 @@
-package tink
+package tinkoff
 
 object TinkSecond {
   def main(args: Array[String]): Unit = {

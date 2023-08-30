@@ -1,5 +1,6 @@
-package Lesson2;
+package leetcode.Lesson2;
 
+import leetcode.Lesson2.Solution;
 import org.junit.Test;
 import org.junit.jupiter.api.Assertions;
 
