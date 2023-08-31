@@ -2,7 +2,7 @@ package second;
 
 import java.util.*;
 
-public class First {
+public class SecondSolutionFin {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -18,9 +18,11 @@ public class First {
         }
 
         if (k >= n) {
-            System.out.println(0);
+            System.out.print(0);
+        } else if (k - uniqueCharacters.size() == 1) {
+            System.out.print(1);
         } else {
-            System.out.println(uniqueCharacters.size() - (n - k));
+            System.out.print(uniqueCharacters.size() - (n - k));
         }
     }
 }
