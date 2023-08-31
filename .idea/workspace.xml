@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f509d7b-447e-4579-af28-4f1f64ac04ee" name="Changes" comment="Final version">
-      <change afterPath="$PROJECT_DIR$/Leetcode/src/main/java/second/ErrorStatistics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/src/main/java/second/ThirdSolutionFin.java" afterDir="false" />
+    <list default="true" id="1f509d7b-447e-4579-af28-4f1f64ac04ee" name="Changes" comment="First version">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/java/second/test/ErrorStatistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/main/java/second/test/ErrorStatistics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/java/second/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/main/java/second/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/java/second/test/ThirdSolutionFin.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/main/java/second/test/ThirdSolutionFin.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,9 +35,10 @@
     <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Leetcode/src/main/java/second/ErrorStatistics.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Leetcode/src/main/java/second/SecondSolutionFin.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Leetcode/src/main/java/second/ThirdSolutionFin.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Leetcode/src/main/java/second/test/ErrorStatistics.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Leetcode/src/main/java/second/test/Test.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Leetcode/src/main/java/second/test/ThirdSolutionFin.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -93,6 +95,54 @@
       <recent name="C:\Users\kohdy\IdeaProjects\TCP_ServerSocket\src\ru\iooko\Lesson1\TwoSum" />
     </key>
   </component>
+  <component name="RunManager" selected="Application.ThirdSolutionFin">
+    <configuration name="ErrorStatistics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="second.test.ErrorStatistics" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="second.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="second.test.Test" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="second.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThirdSolutionFin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="second.test.ThirdSolutionFin" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="second.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ThirdSolutionFin" />
+        <item itemvalue="Application.ErrorStatistics" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="ScalaProjectSettings">
     <option name="scala3DisclaimerShown" value="true" />
   </component>
@@ -115,7 +165,7 @@
       <workItem from="1693316822228" duration="313000" />
       <workItem from="1693422257873" duration="38000" />
       <workItem from="1693491848303" duration="1610000" />
-      <workItem from="1693493488460" duration="3193000" />
+      <workItem from="1693493488460" duration="4143000" />
     </task>
     <task id="LOCAL-00001" summary="Task1_Description">
       <created>1688765082019</created>
@@ -166,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693495099145</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="First version">
+      <created>1693496933845</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1693496933845</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,8 +247,8 @@
     <MESSAGE value="1. Two Sum" />
     <MESSAGE value="Solution for SecondTinkoff" />
     <MESSAGE value="Initial Commit" />
-    <MESSAGE value="First version" />
     <MESSAGE value="Final version" />
-    <option name="LAST_COMMIT_MESSAGE" value="Final version" />
+    <MESSAGE value="First version" />
+    <option name="LAST_COMMIT_MESSAGE" value="First version" />
   </component>
 </project>

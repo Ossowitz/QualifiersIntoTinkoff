@@ -10,7 +10,7 @@ public class ErrorStatistics {
         int n = scanner.nextInt();
 
         // Ввод статистики ошибок
-        String numbersString = "123456789";
+        String numbersString = "24113651";
         int[] errors = new int[numbersString.length()];
 
         for (int i = 0; i < numbersString.length(); i++) {
