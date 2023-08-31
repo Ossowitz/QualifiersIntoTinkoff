@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f509d7b-447e-4579-af28-4f1f64ac04ee" name="Changes" comment="Solution for SecondTinkoff">
-      <change afterPath="$PROJECT_DIR$/Leetcode/src/main/java/first/TinkoffJunior.java" afterDir="false" />
+    <list default="true" id="1f509d7b-447e-4579-af28-4f1f64ac04ee" name="Changes" comment="Initial Commit">
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/main/java/second/First.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/java/Lesson1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/main/java/leetcode/Lesson1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/java/Lesson2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/main/java/leetcode/Lesson2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/java/tink/TinkSecond.scala" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/main/java/tinkoff/TinkSecond.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/test/Lesson1/SolutionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/main/test/leetcode/Lesson1/SolutionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/test/Lesson2/SolutionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/main/test/leetcode/Lesson2/SolutionTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +33,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="SOFT" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Leetcode/src/main/java/second/First.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -58,31 +57,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "deletionFromPopupRequiresConfirmation": "false",
-    "jdk.selected.JAVA_MODULE": "openjdk-19",
-    "last_opened_file_path": "C:/Users/kohdy/IdeaProjects/English",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.38505748",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-19&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kohdy/IdeaProjects/English&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.38505748&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\kohdy\IdeaProjects\TCP_ServerSocket\Leetcode\src\main\java" />
@@ -93,12 +92,12 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="TinkSecond" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="tinkoff.TinkSecond" />
+    <configuration name="First" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="second.First" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="first.*" />
+          <option name="PATTERN" value="second.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,7 +107,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TinkSecond" />
+        <item itemvalue="Application.First" />
       </list>
     </recent_temporary>
   </component>
@@ -132,6 +131,8 @@
       <workItem from="1689194911383" duration="1685000" />
       <workItem from="1693308382542" duration="3233000" />
       <workItem from="1693316822228" duration="313000" />
+      <workItem from="1693422257873" duration="38000" />
+      <workItem from="1693491848303" duration="1409000" />
     </task>
     <task id="LOCAL-00001" summary="Task1_Description">
       <created>1688765082019</created>
@@ -161,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693308777855</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Initial Commit">
+      <created>1693422288946</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1693422288946</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,9 +190,9 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Task1_Description" />
-    <MESSAGE value="Initial Commit" />
     <MESSAGE value="1. Two Sum" />
     <MESSAGE value="Solution for SecondTinkoff" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solution for SecondTinkoff" />
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
 </project>
