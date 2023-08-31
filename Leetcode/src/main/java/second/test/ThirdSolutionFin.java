@@ -22,11 +22,24 @@ public class ThirdSolutionFin {
         int m = scanner.nextInt();
         int[] messages = new int[n];
 
+        // Обработка каждого периода
         for (int i = 0; i < m; i++) {
             int start = scanner.nextInt();
             int end = scanner.nextInt();
 
+            boolean isFailurePeriod = isFailurePeriod(errors, start, end);
 
+            // Вывод ответа
+            if (isFailurePeriod) {
+                System.out.println("Yes");
+            } else {
+                System.out.println("No");
+            }
         }
+    }
+    
+    private static boolean isFailurePeriod(int[] errors, int start, int end) {
+        
+        return true;
     }
 }

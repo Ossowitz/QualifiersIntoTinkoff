@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f509d7b-447e-4579-af28-4f1f64ac04ee" name="Changes" comment="First version">
+    <list default="true" id="1f509d7b-447e-4579-af28-4f1f64ac04ee" name="Changes" comment="Second version">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Leetcode/src/main/java/second/test/ErrorStatistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/main/java/second/test/ErrorStatistics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/java/second/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/main/java/second/test/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Leetcode/src/main/java/second/test/ThirdSolutionFin.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/main/java/second/test/ThirdSolutionFin.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +36,6 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Leetcode/src/main/java/second/SecondSolutionFin.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Leetcode/src/main/java/second/test/ErrorStatistics.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Leetcode/src/main/java/second/test/Test.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Leetcode/src/main/java/second/test/ThirdSolutionFin.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -165,7 +163,7 @@
       <workItem from="1693316822228" duration="313000" />
       <workItem from="1693422257873" duration="38000" />
       <workItem from="1693491848303" duration="1610000" />
-      <workItem from="1693493488460" duration="4143000" />
+      <workItem from="1693493488460" duration="4748000" />
     </task>
     <task id="LOCAL-00001" summary="Task1_Description">
       <created>1688765082019</created>
@@ -223,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693496933845</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Second version">
+      <created>1693497896965</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1693497896965</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,6 +254,7 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Final version" />
     <MESSAGE value="First version" />
-    <option name="LAST_COMMIT_MESSAGE" value="First version" />
+    <MESSAGE value="Second version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second version" />
   </component>
 </project>
