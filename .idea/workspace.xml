@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f509d7b-447e-4579-af28-4f1f64ac04ee" name="Changes" comment="First question in TinkJavaDev">
-      <change afterPath="$PROJECT_DIR$/Leetcode/src/main/java/trainee/fith/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/src/main/java/trainee/fourth/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/src/main/java/trainee/fourth/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/src/main/java/trainee/second/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/main/java/trainee/eighth/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/main/java/trainee/eleven/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/main/java/trainee/nineth/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/main/java/trainee/nineth/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/main/java/trainee/nineth/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/main/java/trainee/sixth/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/java/trainee/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/main/java/trainee/first/Cat.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +103,7 @@
       <recent name="C:\Users\kohdy\IdeaProjects\TCP_ServerSocket\src\ru\iooko\Lesson1\TwoSum" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.trainee.fith.Test">
+  <component name="RunManager" selected="Application.trainee.eleven.Test">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="trainee.fourth.Main" />
       <module name="Leetcode" />
@@ -116,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="trainee.second.Test" />
+    <configuration name="trainee.eleven.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="trainee.eleven.Test" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="trainee.second.*" />
+          <option name="PATTERN" value="trainee.eleven.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +143,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="trainee.nineth.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="trainee.nineth.Test" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="trainee.nineth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="trainee.sixth.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="trainee.sixth.Test" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="trainee.sixth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.trainee.eleven.Test" />
+        <item itemvalue="Application.trainee.nineth.Test" />
+        <item itemvalue="Application.trainee.sixth.Test" />
         <item itemvalue="Application.trainee.fith.Test" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -175,6 +204,7 @@
       <workItem from="1693493488460" duration="5515000" />
       <workItem from="1693557895315" duration="1829000" />
       <workItem from="1693743992295" duration="2827000" />
+      <workItem from="1693748049107" duration="1487000" />
     </task>
     <task id="LOCAL-00001" summary="Task1_Description">
       <created>1688765082019</created>
