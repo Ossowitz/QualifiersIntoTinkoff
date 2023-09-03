@@ -1,4 +1,4 @@
-package trainee;
+package trainee.first;
 
 public class Cat {
     String name;
