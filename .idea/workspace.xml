@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f509d7b-447e-4579-af28-4f1f64ac04ee" name="Changes" comment="First question in TinkJavaDev">
-      <change afterPath="$PROJECT_DIR$/Leetcode/src/main/java/trainee/eighth/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/src/main/java/trainee/eleven/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/src/main/java/trainee/nineth/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/src/main/java/trainee/nineth/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/src/main/java/trainee/nineth/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/src/main/java/trainee/sixth/Test.java" afterDir="false" />
+    <list default="true" id="1f509d7b-447e-4579-af28-4f1f64ac04ee" name="Changes" comment="Initial Commit in TinkJavaDev">
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/main/java/trainee/fiveteen/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/main/java/trainee/seventeen/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/main/java/trainee/sixteen/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/main/java/trainee/thirteen/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/main/java/twelve/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,13 +102,13 @@
       <recent name="C:\Users\kohdy\IdeaProjects\TCP_ServerSocket\src\ru\iooko\Lesson1\TwoSum" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.trainee.eleven.Test">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="trainee.fourth.Main" />
+  <component name="RunManager" selected="Application.trainee.seventeen.Test">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="twelve.Test" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="trainee.fourth.*" />
+          <option name="PATTERN" value="twelve.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="trainee.eleven.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="trainee.eleven.Test" />
+    <configuration name="trainee.fiveteen.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="trainee.fiveteen.Test" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="trainee.eleven.*" />
+          <option name="PATTERN" value="trainee.fiveteen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="trainee.fith.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="trainee.fith.Test" />
+    <configuration name="trainee.seventeen.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="trainee.seventeen.Test" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="trainee.fith.*" />
+          <option name="PATTERN" value="trainee.seventeen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="trainee.nineth.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="trainee.nineth.Test" />
+    <configuration name="trainee.sixteen.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="trainee.sixteen.Test" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="trainee.nineth.*" />
+          <option name="PATTERN" value="trainee.sixteen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="trainee.sixth.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="trainee.sixth.Test" />
+    <configuration name="trainee.thirteen.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="trainee.thirteen.Test" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="trainee.sixth.*" />
+          <option name="PATTERN" value="trainee.thirteen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.trainee.eleven.Test" />
-        <item itemvalue="Application.trainee.nineth.Test" />
-        <item itemvalue="Application.trainee.sixth.Test" />
-        <item itemvalue="Application.trainee.fith.Test" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.trainee.seventeen.Test" />
+        <item itemvalue="Application.trainee.sixteen.Test" />
+        <item itemvalue="Application.trainee.fiveteen.Test" />
+        <item itemvalue="Application.trainee.thirteen.Test" />
+        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +203,7 @@
       <workItem from="1693493488460" duration="5515000" />
       <workItem from="1693557895315" duration="1829000" />
       <workItem from="1693743992295" duration="2827000" />
-      <workItem from="1693748049107" duration="1487000" />
+      <workItem from="1693748049107" duration="4727000" />
     </task>
     <task id="LOCAL-00001" summary="Task1_Description">
       <created>1688765082019</created>
@@ -283,7 +282,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693745751049</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Initial Commit in TinkJavaDev">
+      <created>1693749656673</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1693749656673</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -312,6 +318,7 @@
     <MESSAGE value="Second version" />
     <MESSAGE value="Stub in third version" />
     <MESSAGE value="First question in TinkJavaDev" />
-    <option name="LAST_COMMIT_MESSAGE" value="First question in TinkJavaDev" />
+    <MESSAGE value="Initial Commit in TinkJavaDev" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit in TinkJavaDev" />
   </component>
 </project>
