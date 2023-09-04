@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f509d7b-447e-4579-af28-4f1f64ac04ee" name="Changes" comment="Initial Commit in TinkJavaDev">
-      <change afterPath="$PROJECT_DIR$/Leetcode/src/main/java/trainee/fiveteen/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/src/main/java/trainee/seventeen/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/src/main/java/trainee/sixteen/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/src/main/java/trainee/thirteen/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/src/main/java/twelve/Test.java" afterDir="false" />
+    <list default="true" id="1f509d7b-447e-4579-af28-4f1f64ac04ee" name="Changes" comment="Final Initial Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -203,7 +198,8 @@
       <workItem from="1693493488460" duration="5515000" />
       <workItem from="1693557895315" duration="1829000" />
       <workItem from="1693743992295" duration="2827000" />
-      <workItem from="1693748049107" duration="4727000" />
+      <workItem from="1693748049107" duration="4772000" />
+      <workItem from="1693759601956" duration="611000" />
     </task>
     <task id="LOCAL-00001" summary="Task1_Description">
       <created>1688765082019</created>
@@ -289,7 +285,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693749656673</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Final Initial Commit">
+      <created>1693759517715</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1693759517715</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -319,6 +322,7 @@
     <MESSAGE value="Stub in third version" />
     <MESSAGE value="First question in TinkJavaDev" />
     <MESSAGE value="Initial Commit in TinkJavaDev" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit in TinkJavaDev" />
+    <MESSAGE value="Final Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final Initial Commit" />
   </component>
 </project>
