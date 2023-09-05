@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f509d7b-447e-4579-af28-4f1f64ac04ee" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/Leetcode/src/main/java/Sber/FirstTask.java" afterDir="false" />
+    <list default="true" id="1f509d7b-447e-4579-af28-4f1f64ac04ee" name="Changes" comment="First task, tinkoff, JavaDev">
       <change afterPath="$PROJECT_DIR$/Leetcode/src/main/java/Sber/Second.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/java/Sber/FirstTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/main/java/Sber/FirstTask.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,9 +94,22 @@
       <recent name="C:\Users\kohdy\IdeaProjects\TCP_ServerSocket\src\ru\iooko\Lesson1\TwoSum" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FirstTask">
+  <component name="RunManager" selected="Application.Second">
     <configuration name="FirstTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sber.FirstTask" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Second" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sber.Second" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
@@ -147,26 +160,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="trainee.thirteen.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="trainee.thirteen.Test" />
-      <module name="Leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="trainee.thirteen.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Second" />
         <item itemvalue="Application.FirstTask" />
         <item itemvalue="Application.trainee.seventeen.Test" />
         <item itemvalue="Application.trainee.sixteen.Test" />
         <item itemvalue="Application.trainee.fiveteen.Test" />
-        <item itemvalue="Application.trainee.thirteen.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +200,7 @@
       <workItem from="1693855889376" duration="61000" />
       <workItem from="1693912546632" duration="1625000" />
       <workItem from="1693915183599" duration="1493000" />
-      <workItem from="1693917479865" duration="1947000" />
+      <workItem from="1693917479865" duration="3214000" />
     </task>
     <task id="LOCAL-00001" summary="Task1_Description">
       <created>1688765082019</created>
@@ -300,7 +300,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693855916991</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="First task, tinkoff, JavaDev">
+      <created>1693924785845</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1693924785845</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -331,6 +338,7 @@
     <MESSAGE value="Initial Commit in TinkJavaDev" />
     <MESSAGE value="Final Initial Commit" />
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="First task, tinkoff, JavaDev" />
+    <option name="LAST_COMMIT_MESSAGE" value="First task, tinkoff, JavaDev" />
   </component>
 </project>
