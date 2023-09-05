@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f509d7b-447e-4579-af28-4f1f64ac04ee" name="Changes" comment="Final Initial Commit">
+    <list default="true" id="1f509d7b-447e-4579-af28-4f1f64ac04ee" name="Changes" comment="Initial Commit">
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/main/java/Sber/FirstTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/main/java/Sber/Second.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,11 +38,6 @@
     <setting file="file://$PROJECT_DIR$/Leetcode/src/main/java/second/test/ErrorStatistics.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Leetcode/src/main/java/second/test/Test.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Leetcode/src/main/java/second/test/ThirdSolutionFin.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Leetcode/src/main/java/trainee/first/Cat.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Leetcode/src/main/java/trainee/fith/Test.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Leetcode/src/main/java/trainee/fourth/Main.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Leetcode/src/main/java/trainee/fourth/Person.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Leetcode/src/main/java/trainee/second/Test.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -97,13 +94,13 @@
       <recent name="C:\Users\kohdy\IdeaProjects\TCP_ServerSocket\src\ru\iooko\Lesson1\TwoSum" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.trainee.seventeen.Test">
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="twelve.Test" />
+  <component name="RunManager" selected="Application.FirstTask">
+    <configuration name="FirstTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sber.FirstTask" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="twelve.*" />
+          <option name="PATTERN" value="Sber.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FirstTask" />
         <item itemvalue="Application.trainee.seventeen.Test" />
         <item itemvalue="Application.trainee.sixteen.Test" />
         <item itemvalue="Application.trainee.fiveteen.Test" />
         <item itemvalue="Application.trainee.thirteen.Test" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -200,6 +197,10 @@
       <workItem from="1693743992295" duration="2827000" />
       <workItem from="1693748049107" duration="4772000" />
       <workItem from="1693759601956" duration="611000" />
+      <workItem from="1693855889376" duration="61000" />
+      <workItem from="1693912546632" duration="1625000" />
+      <workItem from="1693915183599" duration="1493000" />
+      <workItem from="1693917479865" duration="1947000" />
     </task>
     <task id="LOCAL-00001" summary="Task1_Description">
       <created>1688765082019</created>
@@ -292,7 +293,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693759517715</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Initial Commit">
+      <created>1693855916991</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1693855916991</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -315,7 +323,6 @@
     <MESSAGE value="Task1_Description" />
     <MESSAGE value="1. Two Sum" />
     <MESSAGE value="Solution for SecondTinkoff" />
-    <MESSAGE value="Initial Commit" />
     <MESSAGE value="Final version" />
     <MESSAGE value="First version" />
     <MESSAGE value="Second version" />
@@ -323,6 +330,7 @@
     <MESSAGE value="First question in TinkJavaDev" />
     <MESSAGE value="Initial Commit in TinkJavaDev" />
     <MESSAGE value="Final Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Final Initial Commit" />
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
 </project>
