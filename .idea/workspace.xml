@@ -1,18 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="healthcheck_service:war exploded" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f509d7b-447e-4579-af28-4f1f64ac04ee" name="Changes" comment="Second task, tinkoff, JavaDev">
-      <change afterPath="$PROJECT_DIR$/Leetcode/health-check_service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/health-check_service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/health-check_service/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/health-check_service/src/main/webapp/index.jsp" afterDir="false" />
+    <list default="true" id="1f509d7b-447e-4579-af28-4f1f64ac04ee" name="Changes" comment="Add health-check_service">
+      <change afterPath="$PROJECT_DIR$/Leetcode/healthcheck_service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/healthcheck_service/src/main/java/com/nexign/btd/tikhomirov/ilya/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/healthcheck_service/src/main/webapp/WEB-INF/HealthCheck-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/healthcheck_service/src/test/java/com/nexign/btd/tikhomirov/ilya/ControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/healthcheck_service/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/health-check_service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/health-check_service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/health-check_service/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/healthcheck_service/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/health-check_service/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/java/Sber/FirstTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/java/Sber/Second.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/java/first/Second.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/java/leetcode/Lesson1/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/java/leetcode/Lesson2/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/java/second/SecondSolutionFin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/java/second/test/ErrorStatistics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/java/second/test/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/java/second/test/ThirdSolutionFin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/java/tinkoff/TinkSecond.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/test/leetcode/Lesson1/SolutionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/main/test/leetcode/Lesson2/SolutionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TCP_ServerSocket.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/healthcheck_service/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitExample.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +53,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="spring-beans.schema" />
       </list>
     </option>
   </component>
@@ -38,10 +67,22 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="HARD" />
   </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="workspaceImportEnabled" value="true" />
@@ -56,6 +97,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -69,6 +111,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "deletionFromPopupRequiresConfirmation": "false",
     "jdk.selected.JAVA_MODULE": "corretto-1.8",
     "last_opened_file_path": "C:/Users/kohdy/IdeaProjects/QualifiersIntoTinkoff",
@@ -77,10 +121,11 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.38505748",
     "settings.editor.selected.configurable": "preferences.pluginManager",
+    "spring.configuration.checksum": "86d7b79956b0ec3f252044a8263fb90f",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -92,6 +137,105 @@
       <recent name="C:\Users\kohdy\IdeaProjects\TCP_ServerSocket\src\ru\iooko\leetcode\Lesson1\TwoSum\description\goalSetting" />
       <recent name="C:\Users\kohdy\IdeaProjects\TCP_ServerSocket\src\ru\iooko\leetcode\Lesson1\TwoSum\description" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.nexign.btd.tikhomirov.ilya" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="healthcheck_service:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="a8876543-711f-404c-850f-0bb44ea778ee" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="58599" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="healthcheck_service:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="ScalaProjectSettings">
     <option name="scala3DisclaimerShown" value="true" />
@@ -127,7 +271,8 @@
       <workItem from="1693936050012" duration="2000" />
       <workItem from="1693936095347" duration="22000" />
       <workItem from="1704401076199" duration="56000" />
-      <workItem from="1704401147020" duration="354000" />
+      <workItem from="1704401147020" duration="2861000" />
+      <workItem from="1704444511084" duration="8933000" />
     </task>
     <task id="LOCAL-00001" summary="Task1_Description">
       <created>1688765082019</created>
@@ -241,7 +386,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693928547354</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Add health-check_service">
+      <created>1695088350133</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1695088350133</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -274,6 +426,7 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="First task, tinkoff, JavaDev" />
     <MESSAGE value="Second task, tinkoff, JavaDev" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second task, tinkoff, JavaDev" />
+    <MESSAGE value="Add health-check_service" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add health-check_service" />
   </component>
 </project>

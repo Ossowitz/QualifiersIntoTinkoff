@@ -8,7 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Leetcode" />
-        <module name="health-check_service" />
+        <module name="healthcheck_service" />
       </profile>
     </annotationProcessing>
   </component>
